@@ -1,0 +1,28 @@
+[
+    {
+        "appid": "com.tbbpower.projecta.amoy.pm200",
+        "ios": {
+            "versionName": "1.1.4",
+            "versionCode": 202104140,
+            "mark": ""
+        },
+        "android": {
+            "versionName": "1.1.4",
+            "versionCode": 202104140,
+            "mark": ""
+        }
+    },
+    {
+        "appid": "com.tbbpower.bwi.mp",
+        "ios": {
+            "versionName": "1.1.7",
+            "versionCode": 202011250,
+            "mark": ""
+        },
+        "android": {
+            "versionName": "1.1.7",
+            "versionCode": 202011250,
+            "mark": ""
+        }
+    }
+]
