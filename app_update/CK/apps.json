@@ -4,17 +4,35 @@
         "ios": {
             "versionName": "1.0.0",
             "versionCode": 202105260,
-            "mark": "内测中",
-            "lastForcedUpdateVersion":"",
+            "markCN": "内测中",
+            "markEN": "test",
+            "supportedVersion":"1.0.0",
             "appURL": "https://apps.apple.com/us/app/id1548975030"
         },
         "android": {
             "versionName": "1.0.0",
             "versionCode": 202105260,
-            "mark": "内测中",
-            "lastForcedUpdateVersion":"",
+            "markCN": "内测中",
+            "markEN": "test",
+            "supportedVersion":"1.0.0",
+            "appURL": "https://www.pgyer.com/yy3i"
+        },
+        "ios_test": {
+            "versionName": "1.0.0",
+            "versionCode": 202105260,
+            "markCN": "内测中",
+            "markEN": "test",
+            "supportedVersion":"1.0.0",
+            "appURL": "https://www.pgyer.com/vcWY"
+        },
+        "android_test":{
+            "versionName": "1.0.0",
+            "versionCode": 202105260,
+            "markCN": "内测中",
+            "markEN": "test",
+            "supportedVersion":"1.0.0",
             "appURL": "https://www.pgyer.com/yy3i",
-            "install":"https://oss.pgyer.com/67d12e093c9664eb33a86978309661b7.apk?auth_key=1622018041-6e15c2c894d0f5a7f403989d1263c2d2-0-77399a7e5187589d801fc1cdf1514143&response-content-disposition=attachment%3B+filename%3DTBB_Nova_1.0.0.apk"
+            "install":"https://oss.pgyer.com/cde5791d020099886e01cb9ff6ff59ba.apk?auth_key=1626509747-6ea1fc0c25eaceffc2011fcea33020fa-0-60bbf041da566cf2b389fbd0c122fbf0&response-content-disposition=attachment%3Bfilename%3DTBB_Nova_1.0.0.apk"
         }
     }
 ]
