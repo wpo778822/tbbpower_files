@@ -26,13 +26,13 @@
             "appURL": "https://www.pgyer.com/vcWY"
         },
         "android_test":{
-            "versionName": "1.0.0",
-            "versionCode": 202105260,
+            "versionName": "1.0.1",
+            "versionCode": 202108043,
             "markCN": "内测中",
             "markEN": "test",
             "supportedVersion":"1.0.0",
             "appURL": "https://www.pgyer.com/yy3i",
-            "install":"https://oss.pgyer.com/cde5791d020099886e01cb9ff6ff59ba.apk?auth_key=1626509747-6ea1fc0c25eaceffc2011fcea33020fa-0-60bbf041da566cf2b389fbd0c122fbf0&response-content-disposition=attachment%3Bfilename%3DTBB_Nova_1.0.0.apk"
+            "install":"https://oss.pgyer.com/d472e799898dfc503e0e00de0f2b0743.apk?auth_key=1628059581-9149f6bd61801510ae869d6565da9e3f-0-cbccd06e5feb60182dc54d4548314c74&response-content-disposition=attachment%3Bfilename%3DTBB_Nova_1.0.1.apk"
         }
     }
 ]
